@@ -22,6 +22,22 @@ I live in Argentina and love Frontend and Javascript, with technologies like Rea
 
 - <a href="https://www.youtube.com/@maximilianocassol" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDWqqZ0wDQEe7LL0a36KLgVySbyH3XaSbWkcnnYNvk-guIQ5EPaOIS9osmubtdxNw7zg&usqp=CAU" alt="https://www.linkedin.com/in/maximilianocassol/" alt="www.youtube.com/@maximilianocassol" height="30" width="40" /></a>
 
+<video width="100%" autoplay muted controls>
+                <source src="./images/mundoGym/Mundo Gym.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+<video width="100%" autoplay muted controls>
+                <source src="./images/Videogames/Videogames.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+<video width="100%" autoplay muted controls>
+                <source src="./images/Countries/Couintries & Activities.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
+<video width="100%" autoplay muted controls>
+                <source src="./images/Rick and Morty/Rick & Morty.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+              </video>
 
 <h3 align="left">Languages:</h3>
 <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzD9DqdkBbnggmGzNGS8Y5yOFF5NLAj579iFcDrznuUXDFaUrkDwn61eKxNyfY0iIAWE&usqp=CAU" alt="" width="160" >
