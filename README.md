@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, i am Maximiliano Cassol Montagner</h1>
 <h3 align="center">FullStack Developer</h3>
 
-I live in Argentina and love Frontend and Javascript, with technologies like React, Redux and Next. I have worked on individual and group projects, which has helped me develop soft skills such as agile learning, planning and organization. I have a background in Teaching and Marketing that are useful for team leadership tasks and crisis management.
+I live in Argentina and love coding, with technologies like React, Redux and Next. I have worked on individual and group projects, which has helped me develop soft skills such as agile learning, planning and organization. I have a background in Teaching and Marketing that are useful for team leadership tasks and crisis management.
 
 - 🌱 Continue learning frameworks and libraries
 
 - 👨‍💻 Some of my proyects are avalable in my repository and YouTube channel
 
-- 💬 Ask me about React | JavaScript | HTML | CSS | Node.js
+- 💬 Ask me about React | JavaScript | Java | Spring | HTML | CSS | Node.js and more! 
   
 - 🔭 Now i'm looking for a new job, check my CV!
 
